@@ -18,6 +18,6 @@ Distributed under the MIT License.
 
 If you have any question about the program feel free to message me in the link below.
 
-John Gregg V. Felicisimo - [@your_facebook](https://www.facebook.com/gwenchaliannxxgregg27) - jgv.felicisimo@gmail.com
+John Gregg V. Felicisimo - [Facebook](https://www.facebook.com/gwenchaliannxxgregg27) - jgv.felicisimo@gmail.com
 
 Project Link: [https://github.com/greggCode13/CoffeeShop](https://github.com/greggCode13/CoffeeShop)
